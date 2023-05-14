@@ -22,7 +22,7 @@ app.post("/text", async (req, resp) => {
     {
       headers: {
         "Content-Type": "application/json",
-        Authorization: `Bearer ${"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"}`,
+        Authorization: `Bearer ${"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"}`,
       },
     }
   );
@@ -41,7 +41,7 @@ app.post("/image", async (req, resp) => {
     {
       headers: {
         "Content-Type": "application/json",
-        Authorization: `Bearer ${"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"}`,
+        Authorization: `Bearer ${"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"}`,
       },
     }
   );
